@@ -1,3 +1,4 @@
+//11–â–Ú‚Í‰ğ‚¯‚Ü‚¹‚ñ‚Å‚µ‚½c
 #include<stdio.h>
 #include<iostream>
 #include<random>
